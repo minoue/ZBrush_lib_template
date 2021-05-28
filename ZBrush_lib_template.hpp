@@ -5,8 +5,6 @@
 // https://developer.apple.com/library/archive/documentation/DeveloperTools/Conceptual/DynamicLibraries/100-Articles/CreatingDynamicLibraries.html#//apple_ref/doc/uid/TP40002073-SW1
 //
 
-#include <CoreFoundation/CoreFoundation.h>
-
 #ifdef __cplusplus
 extern "C" {
 #endif
